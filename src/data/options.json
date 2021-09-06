@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "title": "Light",
+            "price": "99",
+            "subPrice": "year",
+            "perk1": "Lorem, ipsum dolor.",
+            "perk2": "Commodi quae.",
+            "perk3": "Nobis tempora."
+        },
+        {
+            "title": "Standard",
+            "price": "199",
+            "subPrice": "year",
+            "perk1": "Mauris dapibus.",
+            "perk2": "Commodi quae.",
+            "perk3": "Tincidunt dolor."
+        },
+        {
+            "title": "Premium",
+            "price": "399",
+            "subPrice": "year",
+            "perk1": "Lorem, ipsum dolor.",
+            "perk2": "Etiam tristique.",
+            "perk3": "Fusce tincidunt."
+        }
+    ]
+  }
